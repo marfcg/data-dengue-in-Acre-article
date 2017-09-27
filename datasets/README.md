@@ -1,4 +1,4 @@
-#Data sets description#
+Data sets description
 ---------------------
 
 - 2010-IBGE-Census-microdata.tar.gz: Package with microdata and necessary additional files to generate statistics on residents mobility to work/study in Brazil. Public data obtained from the *Instituto Brasileiro de Geografia e Estatística* (IBGE, Brazilian Institute of Geography and Statistics).
